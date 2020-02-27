@@ -1,0 +1,10 @@
+/Users/MacGIbbons1/workspace/MyApp2/bin/Debug/netcoreapp3.1/MyApp2.deps.json
+/Users/MacGIbbons1/workspace/MyApp2/bin/Debug/netcoreapp3.1/MyApp2.runtimeconfig.json
+/Users/MacGIbbons1/workspace/MyApp2/bin/Debug/netcoreapp3.1/MyApp2.runtimeconfig.dev.json
+/Users/MacGIbbons1/workspace/MyApp2/bin/Debug/netcoreapp3.1/MyApp2.dll
+/Users/MacGIbbons1/workspace/MyApp2/bin/Debug/netcoreapp3.1/MyApp2.pdb
+/Users/MacGIbbons1/workspace/MyApp2/obj/Debug/netcoreapp3.1/MyApp2.csprojAssemblyReference.cache
+/Users/MacGIbbons1/workspace/MyApp2/obj/Debug/netcoreapp3.1/MyApp2.AssemblyInfoInputs.cache
+/Users/MacGIbbons1/workspace/MyApp2/obj/Debug/netcoreapp3.1/MyApp2.AssemblyInfo.cs
+/Users/MacGIbbons1/workspace/MyApp2/obj/Debug/netcoreapp3.1/MyApp2.dll
+/Users/MacGIbbons1/workspace/MyApp2/obj/Debug/netcoreapp3.1/MyApp2.pdb
